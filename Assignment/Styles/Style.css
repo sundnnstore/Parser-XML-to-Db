@@ -1,0 +1,70 @@
+﻿body  
+{
+    background-color:#C7DCFE;
+    font-family: Verdana;
+    margin: 0;
+    padding:0;
+	text-align: center; 
+    
+}
+
+
+.mystyle #container { 
+	margin:0px auto;
+	position:relative;
+    top: 0px;
+    left: 0px;
+}  
+.mystyle #header  
+{    
+    margin:0px;
+    background-color: #0099FF;
+    padding: 0 10px;
+    height:50px;
+    text-align:left;
+} 
+
+.mystyle #header h1     
+{
+    padding-top:10px 0;
+    display:inline;
+    text-align: left;
+}
+
+
+.mystyle #upload 
+{
+    padding-left:10px;
+    padding-top:15px;
+    float: left;
+    height: 178px;
+    width: 20%;
+    text-align: left;
+}
+
+.mystyle #Results     
+{
+    width: 50%;
+    float:left;
+    margin-top:20px;
+    padding-left:15px;
+    height:100%
+} 
+
+.mystyle #statistic 
+{
+    text-align:left;
+    padding-left: 15px;
+    float:right;
+    width:25%;
+    right:0px;
+    
+}
+
+.clearfloat  
+{
+    clear: left;
+	
+}
+
+

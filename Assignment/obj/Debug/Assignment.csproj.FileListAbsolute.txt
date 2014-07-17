@@ -1,0 +1,5 @@
+c:\users\vjeko\documents\visual studio 2010\Projects\Assignment\Assignment\bin\Assignment.dll
+c:\users\vjeko\documents\visual studio 2010\Projects\Assignment\Assignment\bin\Assignment.pdb
+c:\users\vjeko\documents\visual studio 2010\Projects\Assignment\Assignment\obj\Debug\ResolveAssemblyReference.cache
+c:\users\vjeko\documents\visual studio 2010\Projects\Assignment\Assignment\obj\Debug\Assignment.dll
+c:\users\vjeko\documents\visual studio 2010\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb
